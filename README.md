@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-<br/> ![](https://github-readme-stats.vercel.app/api?username=ZhijiunY
+<br/> ![](https://github-readme-stats.vercel.app/api?username=ZhijiunY)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
