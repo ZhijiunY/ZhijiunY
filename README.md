@@ -1,8 +1,8 @@
 ### Hi 👋 I'm Zhijiun Yang
 I am a back-end Developer of web. I love learing new technology and skills of web. I take self-learning programming language as a hobby. I'm looking for jobs in back-end programming languages
 
-<br/> ![](https://github-readme-stats.vercel.app/api?username=ZhijiunY&theme=dark)
-<!--
+<!-- <br/> ![](https://github-readme-stats.vercel.app/api?username=ZhijiunY&theme=dark)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
