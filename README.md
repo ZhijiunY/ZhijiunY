@@ -5,7 +5,7 @@ I am a back-end Developer of web. I love learing new technology and skills of we
 ### How to reach me:
 - Linkend: www.linkedin.com/in/zhijiun-yang
 - gmail: yzj90596@gmail.com
-- (+886) 989-535703
+<!-- - (+886) 989-535703 -->
 
 ### 🌱 I’m currently learning:
 - Programming Language: Golang
